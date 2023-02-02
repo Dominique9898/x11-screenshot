@@ -4,6 +4,7 @@ dependencies:
 
 libX11,libpng
 
+`sudo apt install libx11-dev libpng-dev`
 
 
 Start:
